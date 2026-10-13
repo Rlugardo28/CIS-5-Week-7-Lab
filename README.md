@@ -12,7 +12,7 @@ Work without a working video link is incomplete.
 
 The video should show both arrays, including the index, the element, the sum, and the high score.
 
-**Your demo:** _add your link here_
+**Your demo:** https://drive.google.com/file/d/1zdF5FKZUnLJnbFBy5d4qhaPJyEz3-8Ty/view?usp=sharing
 
 
 ## What to build
